@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rezk/ROS_workspacws/custom_msg_ws/catkin_ws/devel/setup.sh
